@@ -1,0 +1,151 @@
+country,iso_code,total_vaccinations,total_vaccinations_per_hundred
+Afghanistan,AFG,54000.0,0.14
+Albania,ALB,48229.0,1.68
+Algeria,DZA,75000.0,0.17
+Andorra,AND,4914.0,6.36
+Angola,AGO,49000.0,0.15
+Anguilla,AIA,5348.0,35.65
+Antigua and Barbuda,ATG,25677.0,26.22
+Argentina,ARG,3142444.0,6.95
+Australia,AUS,282184.0,1.11
+Austria,AUT,1301065.0,14.45
+Azerbaijan,AZE,482664.0,4.76
+Bahamas,BHS,110.0,0.03
+Bahrain,BHR,667155.0,39.21
+Bangladesh,BGD,4911902.0,2.98
+Barbados,BRB,61752.0,21.49
+Belarus,BLR,30000.0,0.32
+Belgium,BEL,1420931.0,12.26
+Belize,BLZ,15006.0,3.77
+Bermuda,BMU,30481.0,48.95
+Bolivia,BOL,168477.0,1.44
+Brazil,BRA,14116560.0,6.64
+Bulgaria,BGR,376370.0,5.42
+Cambodia,KHM,170659.0,1.02
+Canada,CAN,4097934.0,10.86
+Cayman Islands,CYM,41155.0,62.62
+Chile,CHL,8725757.0,45.65
+China,CHN,74956000.0,5.21
+Colombia,COL,1215008.0,2.39
+Costa Rica,CRI,312425.0,6.13
+Cote d'Ivoire,CIV,24728.0,0.09
+Croatia,HRV,365082.0,8.89
+Cyprus,CYP,129438.0,14.78
+Czechia,CZE,1378657.0,12.87
+Denmark,DNK,952732.0,16.45
+Dominica,DMA,13565.0,18.84
+Dominican Republic,DOM,675000.0,6.22
+Ecuador,ECU,141191.0,0.8
+Egypt,EGY,1315.0,0.0
+El Salvador,SLV,49000.0,0.76
+England,OWID_ENG,25476409.0,45.26
+Equatorial Guinea,GNQ,6565.0,0.47
+Estonia,EST,224511.0,16.92
+Faeroe Islands,FRO,9427.0,19.29
+Falkland Islands,FLK,1732.0,49.73
+Finland,FIN,821334.0,14.82
+France,FRA,8629076.0,12.66
+Germany,DEU,10862288.0,12.96
+Ghana,GHA,420000.0,1.35
+Gibraltar,GIB,53171.0,157.82
+Greece,GRC,1469020.0,14.09
+Greenland,GRL,5130.0,9.04
+Grenada,GRD,8606.0,7.65
+Guatemala,GTM,69266.0,0.39
+Guernsey,GGY,29383.0,43.82
+Guinea,GIN,25263.0,0.19
+Guyana,GUY,15524.0,1.97
+Honduras,HND,43073.0,0.43
+Hong Kong,HKG,379600.0,5.06
+Hungary,HUN,2118256.0,21.93
+Iceland,ISL,53019.0,15.54
+India,IND,48494594.0,3.51
+Indonesia,IDN,8226632.0,3.01
+Iran,IRN,124193.0,0.15
+Ireland,IRL,668529.0,13.54
+Isle of Man,IMN,33336.0,39.2
+Israel,ISR,9780097.0,112.99
+Italy,ITA,8029789.0,13.28
+Jamaica,JAM,16096.0,0.54
+Japan,JPN,652698.0,0.52
+Jersey,JEY,48732.0,48.21
+Jordan,JOR,272648.0,2.67
+Kazakhstan,KAZ,109995.0,0.59
+Kenya,KEN,20000.0,0.04
+Kuwait,KWT,360000.0,8.43
+Laos,LAO,40732.0,0.56
+Latvia,LVA,105081.0,5.57
+Lebanon,LBN,148119.0,2.17
+Liechtenstein,LIE,4215.0,11.05
+Lithuania,LTU,408014.0,14.99
+Luxembourg,LUX,74255.0,11.86
+Macao,MAC,36459.0,5.61
+Malawi,MWI,25589.0,0.13
+Malaysia,MYS,452919.0,1.4
+Maldives,MDV,212711.0,39.35
+Malta,MLT,145934.0,33.05
+Mauritius,MUS,3843.0,0.3
+Mexico,MEX,5781359.0,4.48
+Moldova,MDA,20494.0,0.51
+Monaco,MCO,18081.0,46.07
+Mongolia,MNG,209278.0,6.38
+Montenegro,MNE,7298.0,1.16
+Montserrat,MSR,932.0,18.64
+Morocco,MAR,6781503.0,18.37
+Mozambique,MOZ,46439.0,0.15
+Myanmar,MMR,380000.0,0.7
+Nepal,NPL,1600000.0,5.49
+Netherlands,NLD,1887726.0,11.02
+New Zealand,NZL,27000.0,0.56
+Nigeria,NGA,8000.0,0.0
+North Macedonia,MKD,5300.0,0.25
+Northern Cyprus,OWID_CYN,11000.0,2.88
+Northern Ireland,OWID_NIR,776211.0,40.99
+Norway,NOR,768468.0,14.18
+Oman,OMN,120837.0,2.37
+Pakistan,PAK,350000.0,0.16
+Panama,PAN,309660.0,7.18
+Paraguay,PRY,14696.0,0.21
+Peru,PER,689922.0,2.09
+Philippines,PHL,336656.0,0.31
+Poland,POL,5026182.0,13.28
+Portugal,PRT,1351516.0,13.25
+Qatar,QAT,615655.0,21.37
+Romania,ROU,2521512.0,13.11
+Russia,RUS,8413713.0,5.77
+Rwanda,RWA,338544.0,2.61
+Saint Helena,SHN,3107.0,51.18
+Saint Kitts and Nevis,KNA,7580.0,14.25
+Saint Lucia,LCA,20247.0,11.03
+Saint Vincent and the Grenadines,VCT,9383.0,8.46
+San Marino,SMR,7923.0,23.35
+Saudi Arabia,SAU,3333125.0,9.57
+Scotland,OWID_SCT,2407496.0,44.07
+Senegal,SEN,159168.0,0.95
+Serbia,SRB,2178930.0,32.02
+Seychelles,SYC,90150.0,91.67
+Singapore,SGP,792423.0,13.54
+Slovakia,SVK,756567.0,13.86
+Slovenia,SVN,290220.0,13.96
+South Africa,ZAF,182983.0,0.31
+South Korea,KOR,681443.0,1.33
+Spain,ESP,6321908.0,13.52
+Sri Lanka,LKA,838355.0,3.92
+Suriname,SUR,13749.0,2.34
+Sweden,SWE,1293923.0,12.81
+Switzerland,CHE,1176875.0,13.6
+Thailand,THA,53842.0,0.08
+Trinidad and Tobago,TTO,991.0,0.07
+Tunisia,TUN,12496.0,0.11
+Turkey,TUR,13265952.0,15.73
+Turks and Caicos Islands,TCA,6433.0,16.62
+Uganda,UGA,23527.0,0.05
+Ukraine,UKR,121929.0,0.28
+United Arab Emirates,ARE,7374725.0,74.56
+United Kingdom,GBR,30279360.0,44.6
+United States,USA,126509736.0,37.83
+Uruguay,URY,344285.0,9.91
+Venezuela,VEN,12194.0,0.04
+Vietnam,VNM,36082.0,0.04
+Wales,OWID_WLS,1619244.0,51.36
+Zimbabwe,ZWE,43294.0,0.29
